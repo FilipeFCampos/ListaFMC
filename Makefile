@@ -17,5 +17,5 @@ q4: $(SRCSQ4)
 cleanq1:
 	rm -f q1
 
-cleanq2:
-	rm -f q2
+cleanq4:
+	rm -f q4
