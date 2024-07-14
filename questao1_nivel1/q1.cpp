@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-int main() {
+int main(void) {
   int T;
 
   std::cin >> T;

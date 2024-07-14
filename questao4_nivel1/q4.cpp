@@ -2,7 +2,7 @@
 
 int mdc(int a, int b); 
 
-int main() {
+int main(void) {
   int T;
   long long int M;
 
